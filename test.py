@@ -4,7 +4,7 @@ if a >= 0 and b <= 10000:
         print(a+b)
         print(a-b)
         print(a*b)
-        print(a/b)
+        print(a//b)
         print(a%b)
 else:
     print("a는 0보다 커야 하고, b는 10보다 작아야 합니다.")
